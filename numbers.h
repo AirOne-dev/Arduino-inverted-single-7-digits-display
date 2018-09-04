@@ -60,3 +60,4 @@ void afficher(int variable[], int longueur) {
   }
 }
 
+//library by Firologame
